@@ -1,0 +1,13 @@
+.product-details {
+  display: flex;
+  gap: 20px; 
+}
+
+.image-section img {
+  width: 300px; 
+  height: auto;
+}
+
+.details-section {
+  flex: 1; 
+}
