@@ -1,2 +1,12 @@
 @import url(./products.css);
 @import url(./productdetails.css);
+
+.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.dark {
+  background-color: #121212;
+  color: #ffffff;
+}

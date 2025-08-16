@@ -7,8 +7,6 @@ import './assets/styles/style.css'
 
 createRoot(document.getElementById('root')).render(
 
-
- 
       <App />
 
 )
